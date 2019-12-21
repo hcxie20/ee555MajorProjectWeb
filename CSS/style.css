@@ -30,3 +30,9 @@ div.posttext{
     padding:4px;
     background:transparent;
 }
+img.postimg{
+    width: 70%;
+}
+div.postimg{
+    text-align: center;
+}
