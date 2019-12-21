@@ -9,7 +9,7 @@ table.layout{
 
 div.course{
     color: #ffffff;
-    font-size: 50px;
+    font-size: 300%;
 }
 div.main-page{
     background-color: #ffffff;
@@ -35,4 +35,9 @@ img.postimg{
 }
 div.postimg{
     text-align: center;
+}
+div.maintitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
 }
