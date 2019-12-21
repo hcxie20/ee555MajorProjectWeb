@@ -1,0 +1,32 @@
+div.banner-top{
+    background-color: #991b1e;
+    padding: 0px 12px;
+}
+
+table.layout{
+    width: 100%;
+}
+
+div.course{
+    color: #ffffff;
+    font-size: 50px;
+}
+div.main-page{
+    background-color: #ffffff;
+}
+div.post{
+    clear: both;
+}
+div.posttop{
+    margin:4px 12px;
+    padding:0px 4px;
+    width:95%;
+    color:#fff;
+    background-color:#939498;
+    font-weight:bold;
+}
+div.posttext{
+    margin:0px 12px;
+    padding:4px;
+    background:transparent;
+}
